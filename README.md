@@ -11,5 +11,4 @@ RUN yes | \
     gcloud auth configure-docker
 
 CMD [ "/bin/bash" ]
-
 ```
